@@ -1,0 +1,34 @@
+C:\Users\Hector D\source\repos\Trabajo 1\bin\Debug\net6.0-windows\Trabajo 1.exe
+C:\Users\Hector D\source\repos\Trabajo 1\bin\Debug\net6.0-windows\Trabajo 1.deps.json
+C:\Users\Hector D\source\repos\Trabajo 1\bin\Debug\net6.0-windows\Trabajo 1.runtimeconfig.json
+C:\Users\Hector D\source\repos\Trabajo 1\bin\Debug\net6.0-windows\Trabajo 1.dll
+C:\Users\Hector D\source\repos\Trabajo 1\bin\Debug\net6.0-windows\Trabajo 1.pdb
+C:\Users\Hector D\source\repos\Trabajo 1\obj\Debug\net6.0-windows\Trabajo_1.Properties.Resources.resources
+C:\Users\Hector D\source\repos\Trabajo 1\obj\Debug\net6.0-windows\Trabajo 1.csproj.GenerateResource.cache
+C:\Users\Hector D\source\repos\Trabajo 1\obj\Debug\net6.0-windows\Trabajo 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hector D\source\repos\Trabajo 1\obj\Debug\net6.0-windows\Trabajo 1.AssemblyInfoInputs.cache
+C:\Users\Hector D\source\repos\Trabajo 1\obj\Debug\net6.0-windows\Trabajo 1.AssemblyInfo.cs
+C:\Users\Hector D\source\repos\Trabajo 1\obj\Debug\net6.0-windows\Trabajo 1.csproj.CoreCompileInputs.cache
+C:\Users\Hector D\source\repos\Trabajo 1\obj\Debug\net6.0-windows\Trabajo 1.dll
+C:\Users\Hector D\source\repos\Trabajo 1\obj\Debug\net6.0-windows\refint\Trabajo 1.dll
+C:\Users\Hector D\source\repos\Trabajo 1\obj\Debug\net6.0-windows\Trabajo 1.pdb
+C:\Users\Hector D\source\repos\Trabajo 1\obj\Debug\net6.0-windows\Trabajo 1.genruntimeconfig.cache
+C:\Users\Hector D\source\repos\Trabajo 1\obj\Debug\net6.0-windows\ref\Trabajo 1.dll
+C:\Users\Hector D\source\repos\Trabajo 1\obj\Debug\net6.0-windows\Trabajo_1.Gif_Animado.resources
+C:\Users\EQUIPO1\Downloads\Trabajos\Trabajo 1\obj\Debug\net6.0-windows\Practica_1.Gif_Animado.resources
+C:\Users\EQUIPO1\Downloads\Trabajos\Trabajo 1\obj\Debug\net6.0-windows\Trabajo_1.Properties.Resources.resources
+C:\Users\EQUIPO1\Downloads\Trabajos\Trabajo 1\obj\Debug\net6.0-windows\Trabajo 1.csproj.GenerateResource.cache
+C:\Users\EQUIPO1\Downloads\Trabajos\Trabajo 1\obj\Debug\net6.0-windows\Trabajo 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EQUIPO1\Downloads\Trabajos\Trabajo 1\obj\Debug\net6.0-windows\Trabajo 1.AssemblyInfoInputs.cache
+C:\Users\EQUIPO1\Downloads\Trabajos\Trabajo 1\obj\Debug\net6.0-windows\Trabajo 1.AssemblyInfo.cs
+C:\Users\EQUIPO1\Downloads\Trabajos\Trabajo 1\obj\Debug\net6.0-windows\Trabajo 1.csproj.CoreCompileInputs.cache
+C:\Users\EQUIPO1\Downloads\Trabajos\Trabajo 1\obj\Debug\net6.0-windows\Trabajo 1.dll
+C:\Users\EQUIPO1\Downloads\Trabajos\Trabajo 1\obj\Debug\net6.0-windows\refint\Trabajo 1.dll
+C:\Users\EQUIPO1\Downloads\Trabajos\Trabajo 1\obj\Debug\net6.0-windows\Trabajo 1.pdb
+C:\Users\EQUIPO1\Downloads\Trabajos\Trabajo 1\bin\Debug\net6.0-windows\Trabajo 1.exe
+C:\Users\EQUIPO1\Downloads\Trabajos\Trabajo 1\bin\Debug\net6.0-windows\Trabajo 1.deps.json
+C:\Users\EQUIPO1\Downloads\Trabajos\Trabajo 1\bin\Debug\net6.0-windows\Trabajo 1.runtimeconfig.json
+C:\Users\EQUIPO1\Downloads\Trabajos\Trabajo 1\bin\Debug\net6.0-windows\Trabajo 1.dll
+C:\Users\EQUIPO1\Downloads\Trabajos\Trabajo 1\bin\Debug\net6.0-windows\Trabajo 1.pdb
+C:\Users\EQUIPO1\Downloads\Trabajos\Trabajo 1\obj\Debug\net6.0-windows\Trabajo 1.genruntimeconfig.cache
+C:\Users\EQUIPO1\Downloads\Trabajos\Trabajo 1\obj\Debug\net6.0-windows\ref\Trabajo 1.dll

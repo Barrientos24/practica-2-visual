@@ -1,0 +1,16 @@
+C:\Users\Hector D\source\repos\Trabajo 8\obj\Debug\net6.0-windows\Trabajo_8.Form1.resources
+C:\Users\Hector D\source\repos\Trabajo 8\obj\Debug\net6.0-windows\Trabajo 8.csproj.GenerateResource.cache
+C:\Users\Hector D\source\repos\Trabajo 8\obj\Debug\net6.0-windows\Trabajo 8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hector D\source\repos\Trabajo 8\obj\Debug\net6.0-windows\Trabajo 8.AssemblyInfoInputs.cache
+C:\Users\Hector D\source\repos\Trabajo 8\obj\Debug\net6.0-windows\Trabajo 8.AssemblyInfo.cs
+C:\Users\Hector D\source\repos\Trabajo 8\obj\Debug\net6.0-windows\Trabajo 8.csproj.CoreCompileInputs.cache
+C:\Users\Hector D\source\repos\Trabajo 8\bin\Debug\net6.0-windows\Trabajo 8.exe
+C:\Users\Hector D\source\repos\Trabajo 8\bin\Debug\net6.0-windows\Trabajo 8.deps.json
+C:\Users\Hector D\source\repos\Trabajo 8\bin\Debug\net6.0-windows\Trabajo 8.runtimeconfig.json
+C:\Users\Hector D\source\repos\Trabajo 8\bin\Debug\net6.0-windows\Trabajo 8.dll
+C:\Users\Hector D\source\repos\Trabajo 8\bin\Debug\net6.0-windows\Trabajo 8.pdb
+C:\Users\Hector D\source\repos\Trabajo 8\obj\Debug\net6.0-windows\Trabajo 8.dll
+C:\Users\Hector D\source\repos\Trabajo 8\obj\Debug\net6.0-windows\refint\Trabajo 8.dll
+C:\Users\Hector D\source\repos\Trabajo 8\obj\Debug\net6.0-windows\Trabajo 8.pdb
+C:\Users\Hector D\source\repos\Trabajo 8\obj\Debug\net6.0-windows\Trabajo 8.genruntimeconfig.cache
+C:\Users\Hector D\source\repos\Trabajo 8\obj\Debug\net6.0-windows\ref\Trabajo 8.dll

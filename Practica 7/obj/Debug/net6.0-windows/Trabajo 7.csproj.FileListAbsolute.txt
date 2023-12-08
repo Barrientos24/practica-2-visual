@@ -1,0 +1,16 @@
+C:\Users\Hector D\source\repos\Trabajo 7\bin\Debug\net6.0-windows\Trabajo 7.exe
+C:\Users\Hector D\source\repos\Trabajo 7\bin\Debug\net6.0-windows\Trabajo 7.deps.json
+C:\Users\Hector D\source\repos\Trabajo 7\bin\Debug\net6.0-windows\Trabajo 7.runtimeconfig.json
+C:\Users\Hector D\source\repos\Trabajo 7\bin\Debug\net6.0-windows\Trabajo 7.dll
+C:\Users\Hector D\source\repos\Trabajo 7\bin\Debug\net6.0-windows\Trabajo 7.pdb
+C:\Users\Hector D\source\repos\Trabajo 7\obj\Debug\net6.0-windows\Trabajo_7.Form1.resources
+C:\Users\Hector D\source\repos\Trabajo 7\obj\Debug\net6.0-windows\Trabajo 7.csproj.GenerateResource.cache
+C:\Users\Hector D\source\repos\Trabajo 7\obj\Debug\net6.0-windows\Trabajo 7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hector D\source\repos\Trabajo 7\obj\Debug\net6.0-windows\Trabajo 7.AssemblyInfoInputs.cache
+C:\Users\Hector D\source\repos\Trabajo 7\obj\Debug\net6.0-windows\Trabajo 7.AssemblyInfo.cs
+C:\Users\Hector D\source\repos\Trabajo 7\obj\Debug\net6.0-windows\Trabajo 7.csproj.CoreCompileInputs.cache
+C:\Users\Hector D\source\repos\Trabajo 7\obj\Debug\net6.0-windows\Trabajo 7.dll
+C:\Users\Hector D\source\repos\Trabajo 7\obj\Debug\net6.0-windows\refint\Trabajo 7.dll
+C:\Users\Hector D\source\repos\Trabajo 7\obj\Debug\net6.0-windows\Trabajo 7.pdb
+C:\Users\Hector D\source\repos\Trabajo 7\obj\Debug\net6.0-windows\Trabajo 7.genruntimeconfig.cache
+C:\Users\Hector D\source\repos\Trabajo 7\obj\Debug\net6.0-windows\ref\Trabajo 7.dll
